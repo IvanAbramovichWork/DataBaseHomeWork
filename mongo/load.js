@@ -1,5 +1,5 @@
 db.dropDatabase()
-let current_dir = "/home/ivan/Yandex.Disk/Компьютер KOMPUTER/Универ/SQL2/монго"
+let current_dir = "/home/ivan/DataBaseHomeWork/mongo"
 load(current_dir + "/groups.js")
 load(current_dir + "/timetable.js")
 load(current_dir + "/teachers.js")
