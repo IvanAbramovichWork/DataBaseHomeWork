@@ -1,0 +1,65 @@
+[
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a13"
+        },
+        "name": "Э1",
+        "direction": "Экономика"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a14"
+        },
+        "name": "Э2",
+        "direction": "Экономика"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a15"
+        },
+        "name": "Э3",
+        "direction": "Экономика"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a16"
+        },
+        "name": "И1",
+        "direction": "Информатика"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a17"
+        },
+        "name": "И2",
+        "direction": "Информатика"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a18"
+        },
+        "name": "И3",
+        "direction": "Информатика"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a19"
+        },
+        "name": "М1",
+        "direction": "Менеджмент"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a1a"
+        },
+        "name": "М2",
+        "direction": "Менеджмент"
+    },
+    {
+        "_id": {
+            "$oid": "6654a22a1ccd1717fca26a1b"
+        },
+        "name": "М3",
+        "direction": "Менеджмент"
+    }
+]
